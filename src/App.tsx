@@ -3,7 +3,7 @@ import reactLogo from './assets/react.svg'
 import logoMarvel from './assets/logoMarvel.svg'
 import logoPun from './assets/logoPunreliable.svg'
 import viteLogo from '/vite.svg'
-import './App.css'
+import './App.scss'
 import dice from './models/dice'
 
 const Punreliable = {
